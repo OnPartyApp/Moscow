@@ -7,3 +7,4 @@
 <a href="https://telegra.ph/Valeriya---koncert-v-restorane-Levantine-Moskva-02-19" target="_blank">https://telegra.ph/Valeriya---koncert-v-restorane-Levantine-Moskva-02-19</a><br>
 <a href="https://telegra.ph/Klubnaya-Afisha-Moskvy-02-18" target="_blank">https://telegra.ph/Klubnaya-Afisha-Moskvy-02-18</a><br>
 <a href="https://onparty.app/artist/kiliana/" target="_blank">Kiliana</a>
+<a href="https://onparty.app/artist/bearwolf/" target="_blank">Bearwolf</a><br>
