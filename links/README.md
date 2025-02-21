@@ -10,4 +10,7 @@
 <a href="https://onparty.app/moscow/happy-end/fedor-fomin-21022025/" target="_blank">https://onparty.app/moscow/happy-end/fedor-fomin-21022025/</a><br>
     <a href="https://t.me/onparty_app/345" target="_blank">https://t.me/onparty_app/345</a><br>
     <a href="https://telegra.ph/Fyodor-Fomin---Vecherinka---Bar-Happy-End-Moskva-02-20" target="_blank">https://telegra.ph/Fyodor-Fomin---Vecherinka---Bar-Happy-End-Moskva-02-20</a><br>
+    <a href="https://onparty.app/moscow/bigudi/fabrika-21022025/" target="_blank">https://onparty.app/moscow/bigudi/fabrika-21022025/</a><br>
+    <a href="https://t.me/onparty_app/346" target="_blank">https://t.me/onparty_app/346</a><br>
+    <a href="https://telegra.ph/Fabrika---Koncert---Bar-Bigudi-Moskva-02-21" target="_blank">https://telegra.ph/Fabrika---Koncert---Bar-Bigudi-Moskva-02-21</a><br>
     
