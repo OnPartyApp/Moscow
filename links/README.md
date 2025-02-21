@@ -13,4 +13,7 @@
     <a href="https://onparty.app/moscow/bigudi/fabrika-21022025/" target="_blank">https://onparty.app/moscow/bigudi/fabrika-21022025/</a><br>
     <a href="https://t.me/onparty_app/346" target="_blank">https://t.me/onparty_app/346</a><br>
     <a href="https://telegra.ph/Fabrika---Koncert---Bar-Bigudi-Moskva-02-21" target="_blank">https://telegra.ph/Fabrika---Koncert---Bar-Bigudi-Moskva-02-21</a><br>
+    <a href="https://onparty.app/moscow/izi/kiliana-21022025/" target="_blank">https://onparty.app/moscow/izi/kiliana-21022025/</a><br>
+    <a href="https://t.me/onparty_app/347" target="_blank">https://t.me/onparty_app/347</a><br>
+    <a href="https://telegra.ph/Kiliana---Koncert---Klub-IZI-Moskva-02-21" target="_blank">https://telegra.ph/Kiliana---Koncert---Klub-IZI-Moskva-02-21</a><br>
     
