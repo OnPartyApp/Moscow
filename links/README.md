@@ -16,4 +16,7 @@
     <a href="https://onparty.app/moscow/izi/kiliana-21022025/" target="_blank">https://onparty.app/moscow/izi/kiliana-21022025/</a><br>
     <a href="https://t.me/onparty_app/347" target="_blank">https://t.me/onparty_app/347</a><br>
     <a href="https://telegra.ph/Kiliana---Koncert---Klub-IZI-Moskva-02-21" target="_blank">https://telegra.ph/Kiliana---Koncert---Klub-IZI-Moskva-02-21</a><br>
+    <a href="https://onparty.app/moscow/sisters/boronina-22022025/" target="_blank">https://onparty.app/moscow/sisters/boronina-22022025/</a><br>
+    <a href="https://t.me/onparty_app/348" target="_blank">https://t.me/onparty_app/348</a><br>
+    <a href="https://telegra.ph/Boronina---Koncert---Klub-Sisters-Moskva-02-22" target="_blank">https://telegra.ph/Boronina---Koncert---Klub-Sisters-Moskva-02-22</a><br>
     
