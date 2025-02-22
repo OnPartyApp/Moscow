@@ -19,4 +19,7 @@
     <a href="https://onparty.app/moscow/sisters/boronina-22022025/" target="_blank">https://onparty.app/moscow/sisters/boronina-22022025/</a><br>
     <a href="https://t.me/onparty_app/348" target="_blank">https://t.me/onparty_app/348</a><br>
     <a href="https://telegra.ph/Boronina---Koncert---Klub-Sisters-Moskva-02-22" target="_blank">https://telegra.ph/Boronina---Koncert---Klub-Sisters-Moskva-02-22</a><br>
+    <a href="https://onparty.app/moscow/bigudi/julia-volkova-22022025/" target="_blank">https://onparty.app/moscow/bigudi/julia-volkova-22022025/</a><br>
+    <a href="https://t.me/onparty_app/349" target="_blank">https://t.me/onparty_app/349</a><br>
+    <a href="https://telegra.ph/YUliya-Volkova---Koncert---Bar-Bigudi-Moskva-02-22" target="_blank">https://telegra.ph/YUliya-Volkova---Koncert---Bar-Bigudi-Moskva-02-22</a><br>
     
