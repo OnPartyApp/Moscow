@@ -24,4 +24,6 @@
     <a href="https://telegra.ph/YUliya-Volkova---Koncert---Bar-Bigudi-Moskva-02-22" target="_blank">https://telegra.ph/YUliya-Volkova---Koncert---Bar-Bigudi-Moskva-02-22</a><br>
     <a href="https://onparty.app/moscow/bigudi/julia-volkova-22022025/" target="_blank">https://onparty.app/moscow/bigudi/julia-volkova-22022025/</a><br>
     <a href="https://telegra.ph/YUliya-Volkova---Koncert---Bar-Bigudi-Moskva-02-22-2" target="_blank">https://telegra.ph/YUliya-Volkova---Koncert---Bar-Bigudi-Moskva-02-22-2</a><br>
+    <a href="https://onparty.app/moscow/bamboo/misha-marvin-08032025/" target="_blank">https://onparty.app/moscow/bamboo/misha-marvin-08032025/</a><br>
+    <a href="https://telegra.ph/Misha-Marvin---Koncert---Restoran-Bamboo-Bar-Moskva-02-22" target="_blank">https://telegra.ph/Misha-Marvin---Koncert---Restoran-Bamboo-Bar-Moskva-02-22</a><br>
     
