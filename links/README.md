@@ -33,4 +33,7 @@
     <a href="https://onparty.app/moscow/petter/plazma-27022025/" target="_blank">https://onparty.app/moscow/petter/plazma-27022025/</a><br>
     <a href="https://t.me/onparty_app/350" target="_blank">https://t.me/onparty_app/350</a><br>
     <a href="https://telegra.ph/Plazma---Koncert---Bar-Petter-Moskva-02-25" target="_blank">https://telegra.ph/Plazma---Koncert---Bar-Petter-Moskva-02-25</a><br>
+    <a href="https://onparty.app/moscow/mumiy-troll/daasha-27022025/" target="_blank">https://onparty.app/moscow/mumiy-troll/daasha-27022025/</a><br>
+    <a href="https://t.me/onparty_app/351" target="_blank">https://t.me/onparty_app/351</a><br>
+    <a href="https://telegra.ph/Daasha---Koncert---Bar-Mumij-Troll-Moskva-02-25" target="_blank">https://telegra.ph/Daasha---Koncert---Bar-Mumij-Troll-Moskva-02-25</a><br>
     
