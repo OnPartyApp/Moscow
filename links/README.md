@@ -36,4 +36,7 @@
     <a href="https://onparty.app/moscow/mumiy-troll/daasha-27022025/" target="_blank">https://onparty.app/moscow/mumiy-troll/daasha-27022025/</a><br>
     <a href="https://t.me/onparty_app/351" target="_blank">https://t.me/onparty_app/351</a><br>
     <a href="https://telegra.ph/Daasha---Koncert---Bar-Mumij-Troll-Moskva-02-25" target="_blank">https://telegra.ph/Daasha---Koncert---Bar-Mumij-Troll-Moskva-02-25</a><br>
+    <a href="https://onparty.app/moscow/modus/moral-code-28022025/" target="_blank">https://onparty.app/moscow/modus/moral-code-28022025/</a><br>
+    <a href="https://t.me/onparty_app/352" target="_blank">https://t.me/onparty_app/352</a><br>
+    <a href="https://telegra.ph/Moralnyj-kodeks---Koncert---Restoran-Modus-Moskva-02-26" target="_blank">https://telegra.ph/Moralnyj-kodeks---Koncert---Restoran-Modus-Moskva-02-26</a><br>
     
