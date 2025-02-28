@@ -51,4 +51,7 @@
     <a href="https://onparty.app/moscow/anima/pussykiller-28022025/" target="_blank">https://onparty.app/moscow/anima/pussykiller-28022025/</a><br>
     <a href="https://t.me/onparty_app/356" target="_blank">https://t.me/onparty_app/356</a><br>
     <a href="https://telegra.ph/PussyKiller---Koncert---Klub-Anima-Moskva-02-28" target="_blank">https://telegra.ph/PussyKiller---Koncert---Klub-Anima-Moskva-02-28</a><br>
+    <a href="https://onparty.app/moscow/petter/alexander-serov-28022025/" target="_blank">https://onparty.app/moscow/petter/alexander-serov-28022025/</a><br>
+    <a href="https://t.me/onparty_app/357" target="_blank">https://t.me/onparty_app/357</a><br>
+    <a href="https://telegra.ph/Aleksandr-Serov---Koncert---Bar-Petter-Moskva-02-28" target="_blank">https://telegra.ph/Aleksandr-Serov---Koncert---Bar-Petter-Moskva-02-28</a><br>
     
