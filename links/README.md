@@ -48,4 +48,7 @@
     <a href="https://onparty.app/moscow/soho-rooms/basta-28022025/" target="_blank">https://onparty.app/moscow/soho-rooms/basta-28022025/</a><br>
     <a href="https://t.me/onparty_app/355" target="_blank">https://t.me/onparty_app/355</a><br>
     <a href="https://telegra.ph/Basta---Koncert---Klub-Soho-Rooms-Moskva-02-27" target="_blank">https://telegra.ph/Basta---Koncert---Klub-Soho-Rooms-Moskva-02-27</a><br>
+    <a href="https://onparty.app/moscow/anima/pussykiller-28022025/" target="_blank">https://onparty.app/moscow/anima/pussykiller-28022025/</a><br>
+    <a href="https://t.me/onparty_app/356" target="_blank">https://t.me/onparty_app/356</a><br>
+    <a href="https://telegra.ph/PussyKiller---Koncert---Klub-Anima-Moskva-02-28" target="_blank">https://telegra.ph/PussyKiller---Koncert---Klub-Anima-Moskva-02-28</a><br>
     
