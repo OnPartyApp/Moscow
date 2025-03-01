@@ -57,4 +57,7 @@
     <a href="https://onparty.app/moscow/gipsy/pizza-01032025/" target="_blank">https://onparty.app/moscow/gipsy/pizza-01032025/</a><br>
     <a href="https://t.me/onparty_app/358" target="_blank">https://t.me/onparty_app/358</a><br>
     <a href="https://telegra.ph/Pizza---Koncert---Klub-VK-Gipsy-Moskva-03-01" target="_blank">https://telegra.ph/Pizza---Koncert---Klub-VK-Gipsy-Moskva-03-01</a><br>
+    <a href="https://onparty.app/moscow/lyustra/timran-01032025/" target="_blank">https://onparty.app/moscow/lyustra/timran-01032025/</a><br>
+    <a href="https://t.me/onparty_app/359" target="_blank">https://t.me/onparty_app/359</a><br>
+    <a href="https://telegra.ph/Timran---Koncert---Bar-Lyustra-Moskva-03-01" target="_blank">https://telegra.ph/Timran---Koncert---Bar-Lyustra-Moskva-03-01</a><br>
     
