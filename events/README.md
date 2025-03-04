@@ -5,4 +5,5 @@
 		<a href="https://onparty.app/moscow/sisters/slava-skripka-08032025/" target="_blank">Slava Skripka - Концерт в Sisters</a><br>
 		<a href="https://onparty.app/moscow/bigudi/irakli-15032025/" target="_blank">Иракли - Концерт в Бигуди</a><br>
 		<a href="https://onparty.app/moscow/16-tons/shura-09032025/" target="_blank">Шура - Концерт в 16 Тонн</a><br>
+		<a href="https://onparty.app/moscow/texnikabezopasnosti/dominick-jocker-08032025/" target="_blank">Доминик Джокер - Концерт в ТехникаБезОпасности</a><br>
 		
