@@ -60,4 +60,7 @@
     <a href="https://onparty.app/moscow/lyustra/timran-01032025/" target="_blank">https://onparty.app/moscow/lyustra/timran-01032025/</a><br>
     <a href="https://t.me/onparty_app/359" target="_blank">https://t.me/onparty_app/359</a><br>
     <a href="https://telegra.ph/Timran---Koncert---Bar-Lyustra-Moskva-03-01" target="_blank">https://telegra.ph/Timran---Koncert---Bar-Lyustra-Moskva-03-01</a><br>
+    <a href="https://onparty.app/moscow/mumiy-troll/plazma-06032025/" target="_blank">https://onparty.app/moscow/mumiy-troll/plazma-06032025/</a><br>
+    <a href="https://t.me/onparty_app/360" target="_blank">https://t.me/onparty_app/360</a><br>
+    <a href="https://telegra.ph/Plazma---Koncert---Bar-Mumij-Troll-Moskva-03-04" target="_blank">https://telegra.ph/Plazma---Koncert---Bar-Mumij-Troll-Moskva-03-04</a><br>
     
