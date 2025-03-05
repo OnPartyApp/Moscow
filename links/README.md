@@ -63,4 +63,7 @@
     <a href="https://onparty.app/moscow/mumiy-troll/plazma-06032025/" target="_blank">https://onparty.app/moscow/mumiy-troll/plazma-06032025/</a><br>
     <a href="https://t.me/onparty_app/360" target="_blank">https://t.me/onparty_app/360</a><br>
     <a href="https://telegra.ph/Plazma---Koncert---Bar-Mumij-Troll-Moskva-03-04" target="_blank">https://telegra.ph/Plazma---Koncert---Bar-Mumij-Troll-Moskva-03-04</a><br>
+    <a href="https://onparty.app/moscow/petter/yulia-savicheva-07032025/" target="_blank">https://onparty.app/moscow/petter/yulia-savicheva-07032025/</a><br>
+    <a href="https://t.me/onparty_app/361" target="_blank">https://t.me/onparty_app/361</a><br>
+    <a href="https://telegra.ph/YUliya-Savicheva---Koncert---Bar-Petter-Moskva-03-05" target="_blank">https://telegra.ph/YUliya-Savicheva---Koncert---Bar-Petter-Moskva-03-05</a><br>
     
