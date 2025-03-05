@@ -69,4 +69,7 @@
     <a href="https://onparty.app/moscow/zavarka/slava-skripka-07032025/" target="_blank">https://onparty.app/moscow/zavarka/slava-skripka-07032025/</a><br>
     <a href="https://t.me/onparty_app/362" target="_blank">https://t.me/onparty_app/362</a><br>
     <a href="https://telegra.ph/Slava-Skripka---Koncert---Restoran-Zavarka-Moskva-03-05" target="_blank">https://telegra.ph/Slava-Skripka---Koncert---Restoran-Zavarka-Moskva-03-05</a><br>
+    <a href="https://onparty.app/moscow/gipsy/lolita-07032025/" target="_blank">https://onparty.app/moscow/gipsy/lolita-07032025/</a><br>
+    <a href="https://t.me/onparty_app/363" target="_blank">https://t.me/onparty_app/363</a><br>
+    <a href="https://telegra.ph/Lolita---Koncert---Klub-VK-Gipsy-Moskva-03-05" target="_blank">https://telegra.ph/Lolita---Koncert---Klub-VK-Gipsy-Moskva-03-05</a><br>
     
