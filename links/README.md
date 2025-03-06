@@ -75,4 +75,7 @@
     <a href="https://onparty.app/moscow/petter/gosha-kutsenko-07032025/" target="_blank">https://onparty.app/moscow/petter/gosha-kutsenko-07032025/</a><br>
     <a href="https://t.me/onparty_app/364" target="_blank">https://t.me/onparty_app/364</a><br>
     <a href="https://telegra.ph/Gosha-Kucenko---Koncert---Bar-Petter-Moskva-03-06" target="_blank">https://telegra.ph/Gosha-Kucenko---Koncert---Bar-Petter-Moskva-03-06</a><br>
+    <a href="https://onparty.app/moscow/modus/korni-08032025/" target="_blank">https://onparty.app/moscow/modus/korni-08032025/</a><br>
+    <a href="https://t.me/onparty_app/365" target="_blank">https://t.me/onparty_app/365</a><br>
+    <a href="https://telegra.ph/Korni---Koncert---Restoran-Modus-Moskva-03-06" target="_blank">https://telegra.ph/Korni---Koncert---Restoran-Modus-Moskva-03-06</a><br>
     
