@@ -84,4 +84,7 @@
     <a href="https://onparty.app/moscow/gipsy/vintage-08032025/" target="_blank">https://onparty.app/moscow/gipsy/vintage-08032025/</a><br>
     <a href="https://t.me/onparty_app/367" target="_blank">https://t.me/onparty_app/367</a><br>
     <a href="https://telegra.ph/Vintazh---Koncert---Klub-VK-Gipsy-Moskva-03-06" target="_blank">https://telegra.ph/Vintazh---Koncert---Klub-VK-Gipsy-Moskva-03-06</a><br>
+    <a href="https://onparty.app/moscow/bamboo/misha-marvin-08032025/" target="_blank">https://onparty.app/moscow/bamboo/misha-marvin-08032025/</a><br>
+    <a href="https://t.me/onparty_app/368" target="_blank">https://t.me/onparty_app/368</a><br>
+    <a href="https://telegra.ph/Misha-Marvin---Koncert---Restoran-Bamboo-Bar-Moskva-03-06" target="_blank">https://telegra.ph/Misha-Marvin---Koncert---Restoran-Bamboo-Bar-Moskva-03-06</a><br>
     
