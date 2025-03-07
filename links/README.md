@@ -91,4 +91,7 @@
     <a href="https://t.me/onparty_app/369" target="_blank">https://t.me/onparty_app/369</a><br>
     <a href="https://onparty.app/moscow/lounge-for-you/cygo-08032025/" target="_blank">https://onparty.app/moscow/lounge-for-you/cygo-08032025/</a><br>
     <a href="https://t.me/onparty_app/370" target="_blank">https://t.me/onparty_app/370</a><br>
+    <a href="https://onparty.app/moscow/beriot/olga-buzova-08032025/" target="_blank">https://onparty.app/moscow/beriot/olga-buzova-08032025/</a><br>
+    <a href="https://t.me/onparty_app/371" target="_blank">https://t.me/onparty_app/371</a><br>
+    <a href="https://telegra.ph/Olga-Buzova---Koncert---Restoran-Beriot-Moskva-03-07" target="_blank">https://telegra.ph/Olga-Buzova---Koncert---Restoran-Beriot-Moskva-03-07</a><br>
     
