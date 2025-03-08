@@ -96,4 +96,7 @@
     <a href="https://telegra.ph/Olga-Buzova---Koncert---Restoran-Beriot-Moskva-03-07" target="_blank">https://telegra.ph/Olga-Buzova---Koncert---Restoran-Beriot-Moskva-03-07</a><br>
     <a href="https://onparty.app/moscow/texnikabezopasnosti/dominick-jocker-08032025/" target="_blank">https://onparty.app/moscow/texnikabezopasnosti/dominick-jocker-08032025/</a><br>
     <a href="https://t.me/onparty_app/372" target="_blank">https://t.me/onparty_app/372</a><br>
+    <a href="https://onparty.app/moscow/memo/mot-08032025/" target="_blank">https://onparty.app/moscow/memo/mot-08032025/</a><br>
+    <a href="https://t.me/onparty_app/373" target="_blank">https://t.me/onparty_app/373</a><br>
+    <a href="https://telegra.ph/Mot---Koncert---Restoran-Memo-Moskva-03-08" target="_blank">https://telegra.ph/Mot---Koncert---Restoran-Memo-Moskva-03-08</a><br>
     
