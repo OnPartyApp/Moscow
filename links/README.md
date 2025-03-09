@@ -101,4 +101,6 @@
     <a href="https://telegra.ph/Mot---Koncert---Restoran-Memo-Moskva-03-08" target="_blank">https://telegra.ph/Mot---Koncert---Restoran-Memo-Moskva-03-08</a><br>
     <a href="https://onparty.app/moscow/everest-continental/natan-08032025/" target="_blank">https://onparty.app/moscow/everest-continental/natan-08032025/</a><br>
     <a href="https://t.me/onparty_app/374" target="_blank">https://t.me/onparty_app/374</a><br>
+    <a href="https://onparty.app/moscow/16-tons/shura-09032025/" target="_blank">https://onparty.app/moscow/16-tons/shura-09032025/</a><br>
+    <a href="https://t.me/onparty_app/375" target="_blank">https://t.me/onparty_app/375</a><br>
     
