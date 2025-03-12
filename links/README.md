@@ -105,4 +105,7 @@
     <a href="https://t.me/onparty_app/375" target="_blank">https://t.me/onparty_app/375</a><br>
     <a href="https://onparty.app/moscow/16-tons/linda-14032025/" target="_blank">https://onparty.app/moscow/16-tons/linda-14032025/</a><br>
     <a href="https://t.me/onparty_app/376" target="_blank">https://t.me/onparty_app/376</a><br>
+    <a href="https://onparty.app/moscow/ruki-vverx/shura-14032025/" target="_blank">https://onparty.app/moscow/ruki-vverx/shura-14032025/</a><br>
+    <a href="https://t.me/onparty_app/377" target="_blank">https://t.me/onparty_app/377</a><br>
+    <a href="https://telegra.ph/SHura---Koncert---Bar-Ruki-Vverh-Tverskaya-Moskva-03-12" target="_blank">https://telegra.ph/SHura---Koncert---Bar-Ruki-Vverh-Tverskaya-Moskva-03-12</a><br>
     
