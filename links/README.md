@@ -113,4 +113,6 @@
     <a href="https://onparty.app/moscow/petter/alena-apina-15032025/" target="_blank">https://onparty.app/moscow/petter/alena-apina-15032025/</a><br>
     <a href="https://t.me/onparty_app/379" target="_blank">https://t.me/onparty_app/379</a><br>
     <a href="https://telegra.ph/Alyona-Apina---Koncert---Bar-Petter-Moskva-03-13" target="_blank">https://telegra.ph/Alyona-Apina---Koncert---Bar-Petter-Moskva-03-13</a><br>
+    <a href="https://onparty.app/moscow/beriot/sevak-15032025/" target="_blank">https://onparty.app/moscow/beriot/sevak-15032025/</a><br>
+    <a href="https://t.me/onparty_app/380" target="_blank">https://t.me/onparty_app/380</a><br>
     
