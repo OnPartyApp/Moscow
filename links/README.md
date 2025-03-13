@@ -110,4 +110,7 @@
     <a href="https://telegra.ph/SHura---Koncert---Bar-Ruki-Vverh-Tverskaya-Moskva-03-12" target="_blank">https://telegra.ph/SHura---Koncert---Bar-Ruki-Vverh-Tverskaya-Moskva-03-12</a><br>
     <a href="https://onparty.app/moscow/bigudi/irakli-15032025/" target="_blank">https://onparty.app/moscow/bigudi/irakli-15032025/</a><br>
     <a href="https://t.me/onparty_app/378" target="_blank">https://t.me/onparty_app/378</a><br>
+    <a href="https://onparty.app/moscow/petter/alena-apina-15032025/" target="_blank">https://onparty.app/moscow/petter/alena-apina-15032025/</a><br>
+    <a href="https://t.me/onparty_app/379" target="_blank">https://t.me/onparty_app/379</a><br>
+    <a href="https://telegra.ph/Alyona-Apina---Koncert---Bar-Petter-Moskva-03-13" target="_blank">https://telegra.ph/Alyona-Apina---Koncert---Bar-Petter-Moskva-03-13</a><br>
     
