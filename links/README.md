@@ -120,4 +120,7 @@
     <a href="https://onparty.app/moscow/gipsy/elman-15032025/" target="_blank">https://onparty.app/moscow/gipsy/elman-15032025/</a><br>
     <a href="https://t.me/onparty_app/382" target="_blank">https://t.me/onparty_app/382</a><br>
     <a href="https://telegra.ph/Elman---Koncert---Klub-VK-Gipsy-Moskva-03-14" target="_blank">https://telegra.ph/Elman---Koncert---Klub-VK-Gipsy-Moskva-03-14</a><br>
+    <a href="https://onparty.app/moscow/petter/soso-pavliashvili-20032025/" target="_blank">https://onparty.app/moscow/petter/soso-pavliashvili-20032025/</a><br>
+    <a href="https://t.me/onparty_app/383" target="_blank">https://t.me/onparty_app/383</a><br>
+    <a href="https://telegra.ph/Soso-Pavliashvili---Koncert---Bar-Petter-Moskva-03-17" target="_blank">https://telegra.ph/Soso-Pavliashvili---Koncert---Bar-Petter-Moskva-03-17</a><br>
     
