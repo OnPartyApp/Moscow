@@ -123,4 +123,7 @@
     <a href="https://onparty.app/moscow/petter/soso-pavliashvili-20032025/" target="_blank">https://onparty.app/moscow/petter/soso-pavliashvili-20032025/</a><br>
     <a href="https://t.me/onparty_app/383" target="_blank">https://t.me/onparty_app/383</a><br>
     <a href="https://telegra.ph/Soso-Pavliashvili---Koncert---Bar-Petter-Moskva-03-17" target="_blank">https://telegra.ph/Soso-Pavliashvili---Koncert---Bar-Petter-Moskva-03-17</a><br>
+    <a href="https://onparty.app/moscow/soho-rooms/grigory-leps-21032025/" target="_blank">https://onparty.app/moscow/soho-rooms/grigory-leps-21032025/</a><br>
+    <a href="https://t.me/onparty_app/384" target="_blank">https://t.me/onparty_app/384</a><br>
+    <a href="https://telegra.ph/Grigorij-Leps---Koncert---Klub-Soho-Rooms-Moskva-03-19" target="_blank">https://telegra.ph/Grigorij-Leps---Koncert---Klub-Soho-Rooms-Moskva-03-19</a><br>
     
