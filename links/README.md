@@ -126,4 +126,7 @@
     <a href="https://onparty.app/moscow/soho-rooms/grigory-leps-21032025/" target="_blank">https://onparty.app/moscow/soho-rooms/grigory-leps-21032025/</a><br>
     <a href="https://t.me/onparty_app/384" target="_blank">https://t.me/onparty_app/384</a><br>
     <a href="https://telegra.ph/Grigorij-Leps---Koncert---Klub-Soho-Rooms-Moskva-03-19" target="_blank">https://telegra.ph/Grigorij-Leps---Koncert---Klub-Soho-Rooms-Moskva-03-19</a><br>
+    <a href="https://onparty.app/moscow/memo/dmitry-malikov-22032025/" target="_blank">https://onparty.app/moscow/memo/dmitry-malikov-22032025/</a><br>
+    <a href="https://t.me/onparty_app/385" target="_blank">https://t.me/onparty_app/385</a><br>
+    <a href="https://telegra.ph/Dmitrii-Malikov---Koncert---Restoran-Memo-Moskva-03-21" target="_blank">https://telegra.ph/Dmitrii-Malikov---Koncert---Restoran-Memo-Moskva-03-21</a><br>
     
