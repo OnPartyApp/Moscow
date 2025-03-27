@@ -129,4 +129,7 @@
     <a href="https://onparty.app/moscow/memo/dmitry-malikov-22032025/" target="_blank">https://onparty.app/moscow/memo/dmitry-malikov-22032025/</a><br>
     <a href="https://t.me/onparty_app/385" target="_blank">https://t.me/onparty_app/385</a><br>
     <a href="https://telegra.ph/Dmitrii-Malikov---Koncert---Restoran-Memo-Moskva-03-21" target="_blank">https://telegra.ph/Dmitrii-Malikov---Koncert---Restoran-Memo-Moskva-03-21</a><br>
+    <a href="https://onparty.app/moscow/memo/misha-marvin-29032025/" target="_blank">https://onparty.app/moscow/memo/misha-marvin-29032025/</a><br>
+    <a href="https://t.me/onparty_app/386" target="_blank">https://t.me/onparty_app/386</a><br>
+    <a href="https://telegra.ph/Misha-Marvin---Koncert---Restoran-Memo-Moskva-03-27" target="_blank">https://telegra.ph/Misha-Marvin---Koncert---Restoran-Memo-Moskva-03-27</a><br>
     
