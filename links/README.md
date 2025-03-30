@@ -138,4 +138,7 @@
     <a href="https://t.me/onparty_app/388" target="_blank">https://t.me/onparty_app/388</a><br>
     <a href="https://onparty.app/moscow/lyustra/linda-30032025/" target="_blank">https://onparty.app/moscow/lyustra/linda-30032025/</a><br>
     <a href="https://t.me/onparty_app/389" target="_blank">https://t.me/onparty_app/389</a><br>
+    <a href="https://onparty.app/moscow/petter/valeriya-30032025/" target="_blank">https://onparty.app/moscow/petter/valeriya-30032025/</a><br>
+    <a href="https://t.me/onparty_app/390" target="_blank">https://t.me/onparty_app/390</a><br>
+    <a href="https://telegra.ph/Valeriya---Koncert---Bar-Petter-Moskva-03-30" target="_blank">https://telegra.ph/Valeriya---Koncert---Bar-Petter-Moskva-03-30</a><br>
     
