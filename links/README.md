@@ -136,4 +136,6 @@
     <a href="https://t.me/onparty_app/387" target="_blank">https://t.me/onparty_app/387</a><br>
     <a href="https://onparty.app/moscow/bigudi/dominick-jocker-29032025/" target="_blank">https://onparty.app/moscow/bigudi/dominick-jocker-29032025/</a><br>
     <a href="https://t.me/onparty_app/388" target="_blank">https://t.me/onparty_app/388</a><br>
+    <a href="https://onparty.app/moscow/lyustra/linda-30032025/" target="_blank">https://onparty.app/moscow/lyustra/linda-30032025/</a><br>
+    <a href="https://t.me/onparty_app/389" target="_blank">https://t.me/onparty_app/389</a><br>
     
