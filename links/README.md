@@ -143,4 +143,7 @@
     <a href="https://telegra.ph/Valeriya---Koncert---Bar-Petter-Moskva-03-30" target="_blank">https://telegra.ph/Valeriya---Koncert---Bar-Petter-Moskva-03-30</a><br>
     <a href="https://onparty.app/moscow/lyustra/plazma-02042025/" target="_blank">https://onparty.app/moscow/lyustra/plazma-02042025/</a><br>
     <a href="https://t.me/onparty_app/391" target="_blank">https://t.me/onparty_app/391</a><br>
+    <a href="https://onparty.app/moscow/petter/shura-03042025/" target="_blank">https://onparty.app/moscow/petter/shura-03042025/</a><br>
+    <a href="https://t.me/onparty_app/392" target="_blank">https://t.me/onparty_app/392</a><br>
+    <a href="https://telegra.ph/SHura---Koncert---Bar-Petter-Moskva-04-02" target="_blank">https://telegra.ph/SHura---Koncert---Bar-Petter-Moskva-04-02</a><br>
     
