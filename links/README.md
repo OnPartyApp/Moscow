@@ -146,4 +146,6 @@
     <a href="https://onparty.app/moscow/petter/shura-03042025/" target="_blank">https://onparty.app/moscow/petter/shura-03042025/</a><br>
     <a href="https://t.me/onparty_app/392" target="_blank">https://t.me/onparty_app/392</a><br>
     <a href="https://telegra.ph/SHura---Koncert---Bar-Petter-Moskva-04-02" target="_blank">https://telegra.ph/SHura---Koncert---Bar-Petter-Moskva-04-02</a><br>
+    <a href="https://onparty.app/moscow/beriot/samoel-03042025/" target="_blank">https://onparty.app/moscow/beriot/samoel-03042025/</a><br>
+    <a href="https://t.me/onparty_app/393" target="_blank">https://t.me/onparty_app/393</a><br>
     
