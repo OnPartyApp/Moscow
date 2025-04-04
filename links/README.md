@@ -148,4 +148,6 @@
     <a href="https://telegra.ph/SHura---Koncert---Bar-Petter-Moskva-04-02" target="_blank">https://telegra.ph/SHura---Koncert---Bar-Petter-Moskva-04-02</a><br>
     <a href="https://onparty.app/moscow/beriot/samoel-03042025/" target="_blank">https://onparty.app/moscow/beriot/samoel-03042025/</a><br>
     <a href="https://t.me/onparty_app/393" target="_blank">https://t.me/onparty_app/393</a><br>
+    <a href="https://onparty.app/moscow/modus/aleksey-vorobyov-04042025/" target="_blank">https://onparty.app/moscow/modus/aleksey-vorobyov-04042025/</a><br>
+    <a href="https://t.me/onparty_app/394" target="_blank">https://t.me/onparty_app/394</a><br>
     
