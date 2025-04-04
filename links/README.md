@@ -156,4 +156,6 @@
     <a href="https://t.me/onparty_app/396" target="_blank">https://t.me/onparty_app/396</a><br>
     <a href="https://onparty.app/moscow/beriot/ivanushki-04042025/" target="_blank">https://onparty.app/moscow/beriot/ivanushki-04042025/</a><br>
     <a href="https://t.me/onparty_app/397" target="_blank">https://t.me/onparty_app/397</a><br>
+    <a href="https://onparty.app/moscow/izi/konfuz-04042025/" target="_blank">https://onparty.app/moscow/izi/konfuz-04042025/</a><br>
+    <a href="https://t.me/onparty_app/398" target="_blank">https://t.me/onparty_app/398</a><br>
     
