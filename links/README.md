@@ -158,4 +158,7 @@
     <a href="https://t.me/onparty_app/397" target="_blank">https://t.me/onparty_app/397</a><br>
     <a href="https://onparty.app/moscow/izi/konfuz-04042025/" target="_blank">https://onparty.app/moscow/izi/konfuz-04042025/</a><br>
     <a href="https://t.me/onparty_app/398" target="_blank">https://t.me/onparty_app/398</a><br>
+    <a href="https://onparty.app/moscow/petter/na-na-05042025/" target="_blank">https://onparty.app/moscow/petter/na-na-05042025/</a><br>
+    <a href="https://t.me/onparty_app/399" target="_blank">https://t.me/onparty_app/399</a><br>
+    <a href="https://telegra.ph/Na-Na---Koncert---Bar-Petter-Moskva-04-04" target="_blank">https://telegra.ph/Na-Na---Koncert---Bar-Petter-Moskva-04-04</a><br>
     
