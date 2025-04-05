@@ -166,4 +166,7 @@
     <a href="https://onparty.app/moscow/petter/na-na-05042025/" target="_blank">https://onparty.app/moscow/petter/na-na-05042025/</a><br>
     <a href="https://t.me/onparty_app/401" target="_blank">https://t.me/onparty_app/401</a><br>
     <a href="https://telegra.ph/Na-Na---Koncert---Bar-Petter-Moskva-04-05" target="_blank">https://telegra.ph/Na-Na---Koncert---Bar-Petter-Moskva-04-05</a><br>
+    <a href="https://onparty.app/moscow/bigudi/otpetye-moshenniki-05042025/" target="_blank">https://onparty.app/moscow/bigudi/otpetye-moshenniki-05042025/</a><br>
+    <a href="https://t.me/onparty_app/402" target="_blank">https://t.me/onparty_app/402</a><br>
+    <a href="https://telegra.ph/Otpetye-Moshenniki---Koncert---Bar-Bigudi-Moskva-04-05" target="_blank">https://telegra.ph/Otpetye-Moshenniki---Koncert---Bar-Bigudi-Moskva-04-05</a><br>
     
