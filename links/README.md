@@ -171,4 +171,7 @@
     <a href="https://telegra.ph/Otpetye-Moshenniki---Koncert---Bar-Bigudi-Moskva-04-05" target="_blank">https://telegra.ph/Otpetye-Moshenniki---Koncert---Bar-Bigudi-Moskva-04-05</a><br>
     <a href="https://onparty.app/moscow/memo/mikhail-shufutinsky-05042025/" target="_blank">https://onparty.app/moscow/memo/mikhail-shufutinsky-05042025/</a><br>
     <a href="https://t.me/onparty_app/403" target="_blank">https://t.me/onparty_app/403</a><br>
+    <a href="https://onparty.app/moscow/16-tons/vladimir-kuzmin-07042025/" target="_blank">https://onparty.app/moscow/16-tons/vladimir-kuzmin-07042025/</a><br>
+    <a href="https://t.me/onparty_app/404" target="_blank">https://t.me/onparty_app/404</a><br>
+    <a href="https://telegra.ph/Vladimir-Kuzmin---Koncert---Klub-16-Tonn-Moskva-04-07" target="_blank">https://telegra.ph/Vladimir-Kuzmin---Koncert---Klub-16-Tonn-Moskva-04-07</a><br>
     
