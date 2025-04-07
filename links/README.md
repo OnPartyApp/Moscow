@@ -174,4 +174,7 @@
     <a href="https://onparty.app/moscow/16-tons/vladimir-kuzmin-07042025/" target="_blank">https://onparty.app/moscow/16-tons/vladimir-kuzmin-07042025/</a><br>
     <a href="https://t.me/onparty_app/404" target="_blank">https://t.me/onparty_app/404</a><br>
     <a href="https://telegra.ph/Vladimir-Kuzmin---Koncert---Klub-16-Tonn-Moskva-04-07" target="_blank">https://telegra.ph/Vladimir-Kuzmin---Koncert---Klub-16-Tonn-Moskva-04-07</a><br>
+    <a href="https://onparty.app/moscow/petter/alexander-serov-08042025/" target="_blank">https://onparty.app/moscow/petter/alexander-serov-08042025/</a><br>
+    <a href="https://t.me/onparty_app/405" target="_blank">https://t.me/onparty_app/405</a><br>
+    <a href="https://telegra.ph/Aleksandr-Serov---Koncert---Bar-Petter-Moskva-04-07" target="_blank">https://telegra.ph/Aleksandr-Serov---Koncert---Bar-Petter-Moskva-04-07</a><br>
     
