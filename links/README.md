@@ -177,4 +177,7 @@
     <a href="https://onparty.app/moscow/petter/alexander-serov-08042025/" target="_blank">https://onparty.app/moscow/petter/alexander-serov-08042025/</a><br>
     <a href="https://t.me/onparty_app/405" target="_blank">https://t.me/onparty_app/405</a><br>
     <a href="https://telegra.ph/Aleksandr-Serov---Koncert---Bar-Petter-Moskva-04-07" target="_blank">https://telegra.ph/Aleksandr-Serov---Koncert---Bar-Petter-Moskva-04-07</a><br>
+    <a href="https://onparty.app/moscow/petter/nepara-10042025/" target="_blank">https://onparty.app/moscow/petter/nepara-10042025/</a><br>
+    <a href="https://t.me/onparty_app/406" target="_blank">https://t.me/onparty_app/406</a><br>
+    <a href="https://telegra.ph/Nepara---Koncert---Bar-Petter-Moskva-04-10" target="_blank">https://telegra.ph/Nepara---Koncert---Bar-Petter-Moskva-04-10</a><br>
     
