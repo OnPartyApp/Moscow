@@ -184,4 +184,7 @@
     <a href="https://t.me/onparty_app/407" target="_blank">https://t.me/onparty_app/407</a><br>
     <a href="https://onparty.app/moscow/petter/alena-sviridova-11042025/" target="_blank">https://onparty.app/moscow/petter/alena-sviridova-11042025/</a><br>
     <a href="https://t.me/onparty_app/408" target="_blank">https://t.me/onparty_app/408</a><br>
+    <a href="https://onparty.app/moscow/gipsy/willy-william-01032025/" target="_blank">https://onparty.app/moscow/gipsy/willy-william-01032025/</a><br>
+    <a href="https://t.me/onparty_app/409" target="_blank">https://t.me/onparty_app/409</a><br>
+    <a href="https://telegra.ph/Willy-William---Koncert---Klub-VK-Gipsy-Moskva-04-11" target="_blank">https://telegra.ph/Willy-William---Koncert---Klub-VK-Gipsy-Moskva-04-11</a><br>
     
