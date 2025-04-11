@@ -180,4 +180,6 @@
     <a href="https://onparty.app/moscow/petter/nepara-10042025/" target="_blank">https://onparty.app/moscow/petter/nepara-10042025/</a><br>
     <a href="https://t.me/onparty_app/406" target="_blank">https://t.me/onparty_app/406</a><br>
     <a href="https://telegra.ph/Nepara---Koncert---Bar-Petter-Moskva-04-10" target="_blank">https://telegra.ph/Nepara---Koncert---Bar-Petter-Moskva-04-10</a><br>
+    <a href="https://onparty.app/moscow/izi/icegergert-11042025/" target="_blank">https://onparty.app/moscow/izi/icegergert-11042025/</a><br>
+    <a href="https://t.me/onparty_app/407" target="_blank">https://t.me/onparty_app/407</a><br>
     
