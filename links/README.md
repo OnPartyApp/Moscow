@@ -189,4 +189,6 @@
     <a href="https://telegra.ph/Willy-William---Koncert---Klub-VK-Gipsy-Moskva-04-11" target="_blank">https://telegra.ph/Willy-William---Koncert---Klub-VK-Gipsy-Moskva-04-11</a><br>
     <a href="https://onparty.app/moscow/boyarski/anna-semenovich-17042025/" target="_blank">https://onparty.app/moscow/boyarski/anna-semenovich-17042025/</a><br>
     <a href="https://t.me/onparty_app/410" target="_blank">https://t.me/onparty_app/410</a><br>
+    <a href="https://onparty.app/moscow/beriot/soso-pavliashvili-18042025/" target="_blank">https://onparty.app/moscow/beriot/soso-pavliashvili-18042025/</a><br>
+    <a href="https://t.me/onparty_app/411" target="_blank">https://t.me/onparty_app/411</a><br>
     
