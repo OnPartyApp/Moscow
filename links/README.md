@@ -191,4 +191,6 @@
     <a href="https://t.me/onparty_app/410" target="_blank">https://t.me/onparty_app/410</a><br>
     <a href="https://onparty.app/moscow/beriot/soso-pavliashvili-18042025/" target="_blank">https://onparty.app/moscow/beriot/soso-pavliashvili-18042025/</a><br>
     <a href="https://t.me/onparty_app/411" target="_blank">https://t.me/onparty_app/411</a><br>
+    <a href="https://onparty.app/moscow/mumiy-troll/igor-nikolaev-19042025/" target="_blank">https://onparty.app/moscow/mumiy-troll/igor-nikolaev-19042025/</a><br>
+    <a href="https://t.me/onparty_app/412" target="_blank">https://t.me/onparty_app/412</a><br>
     
