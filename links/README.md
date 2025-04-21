@@ -195,4 +195,6 @@
     <a href="https://t.me/onparty_app/412" target="_blank">https://t.me/onparty_app/412</a><br>
     <a href="https://onparty.app/moscow/contact/gunwest-19042025/" target="_blank">https://onparty.app/moscow/contact/gunwest-19042025/</a><br>
     <a href="https://t.me/onparty_app/413" target="_blank">https://t.me/onparty_app/413</a><br>
+    <a href="https://onparty.app/moscow/petter/yulia-savicheva-21042025/" target="_blank">https://onparty.app/moscow/petter/yulia-savicheva-21042025/</a><br>
+    <a href="https://t.me/onparty_app/414" target="_blank">https://t.me/onparty_app/414</a><br>
     
