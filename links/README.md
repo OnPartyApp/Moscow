@@ -203,4 +203,6 @@
     <a href="https://onparty.app/moscow/beriot/dino-mc-47-24042025/" target="_blank">https://onparty.app/moscow/beriot/dino-mc-47-24042025/</a><br>
     <a href="https://t.me/onparty_app/416" target="_blank">https://t.me/onparty_app/416</a><br>
     <a href="https://telegra.ph/Dino-MC-47---Koncert---Restoran-Beriot-Moskva-04-24" target="_blank">https://telegra.ph/Dino-MC-47---Koncert---Restoran-Beriot-Moskva-04-24</a><br>
+    <a href="https://onparty.app/moscow/ruki-vverx/vintage-25042025/" target="_blank">https://onparty.app/moscow/ruki-vverx/vintage-25042025/</a><br>
+    <a href="https://t.me/onparty_app/417" target="_blank">https://t.me/onparty_app/417</a><br>
     
