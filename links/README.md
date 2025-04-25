@@ -207,4 +207,6 @@
     <a href="https://t.me/onparty_app/417" target="_blank">https://t.me/onparty_app/417</a><br>
     <a href="https://onparty.app/moscow/beriot/irina-dubtsova-25042025/" target="_blank">https://onparty.app/moscow/beriot/irina-dubtsova-25042025/</a><br>
     <a href="https://t.me/onparty_app/418" target="_blank">https://t.me/onparty_app/418</a><br>
+    <a href="https://onparty.app/moscow/leningrad/tatiana-ovsienko-25042025/" target="_blank">https://onparty.app/moscow/leningrad/tatiana-ovsienko-25042025/</a><br>
+    <a href="https://t.me/onparty_app/419" target="_blank">https://t.me/onparty_app/419</a><br>
     
