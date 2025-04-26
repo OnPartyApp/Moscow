@@ -215,4 +215,6 @@
     <a href="https://t.me/onparty_app/421" target="_blank">https://t.me/onparty_app/421</a><br>
     <a href="https://onparty.app/moscow/petter/victoria-daineko-26042025/" target="_blank">https://onparty.app/moscow/petter/victoria-daineko-26042025/</a><br>
     <a href="https://t.me/onparty_app/422" target="_blank">https://t.me/onparty_app/422</a><br>
+    <a href="https://onparty.app/moscow/beriot/diskoteka-avariya-26042025/" target="_blank">https://onparty.app/moscow/beriot/diskoteka-avariya-26042025/</a><br>
+    <a href="https://t.me/onparty_app/423" target="_blank">https://t.me/onparty_app/423</a><br>
     
