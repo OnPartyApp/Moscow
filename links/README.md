@@ -221,4 +221,6 @@
     <a href="https://t.me/onparty_app/424" target="_blank">https://t.me/onparty_app/424</a><br>
     <a href="https://onparty.app/moscow/mumiy-troll/linda-30042025/" target="_blank">https://onparty.app/moscow/mumiy-troll/linda-30042025/</a><br>
     <a href="https://t.me/onparty_app/425" target="_blank">https://t.me/onparty_app/425</a><br>
+    <a href="https://onparty.app/moscow/zavarka/kiliana-01052025/" target="_blank">https://onparty.app/moscow/zavarka/kiliana-01052025/</a><br>
+    <a href="https://t.me/onparty_app/426" target="_blank">https://t.me/onparty_app/426</a><br>
     
