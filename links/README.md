@@ -231,4 +231,6 @@
     <a href="https://t.me/onparty_app/429" target="_blank">https://t.me/onparty_app/429</a><br>
     <a href="https://onparty.app/moscow/petter/aleksandr-buinov-16052025/" target="_blank">https://onparty.app/moscow/petter/aleksandr-buinov-16052025/</a><br>
     <a href="https://t.me/onparty_app/430" target="_blank">https://t.me/onparty_app/430</a><br>
+    <a href="https://onparty.app/moscow/mumiy-troll/yulia-savicheva-16052025/" target="_blank">https://onparty.app/moscow/mumiy-troll/yulia-savicheva-16052025/</a><br>
+    <a href="https://t.me/onparty_app/431" target="_blank">https://t.me/onparty_app/431</a><br>
     
