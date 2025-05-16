@@ -229,4 +229,6 @@
     <a href="https://t.me/onparty_app/428" target="_blank">https://t.me/onparty_app/428</a><br>
     <a href="https://onparty.app/moscow/lyustra/alexander-serov-15052025/" target="_blank">https://onparty.app/moscow/lyustra/alexander-serov-15052025/</a><br>
     <a href="https://t.me/onparty_app/429" target="_blank">https://t.me/onparty_app/429</a><br>
+    <a href="https://onparty.app/moscow/petter/aleksandr-buinov-16052025/" target="_blank">https://onparty.app/moscow/petter/aleksandr-buinov-16052025/</a><br>
+    <a href="https://t.me/onparty_app/430" target="_blank">https://t.me/onparty_app/430</a><br>
     
