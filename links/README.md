@@ -237,4 +237,6 @@
     <a href="https://t.me/onparty_app/432" target="_blank">https://t.me/onparty_app/432</a><br>
     <a href="https://onparty.app/moscow/beriot/lolita-16052025/" target="_blank">https://onparty.app/moscow/beriot/lolita-16052025/</a><br>
     <a href="https://t.me/onparty_app/433" target="_blank">https://t.me/onparty_app/433</a><br>
+    <a href="https://onparty.app/moscow/beriot/kristina-si-17052025/" target="_blank">https://onparty.app/moscow/beriot/kristina-si-17052025/</a><br>
+    <a href="https://t.me/onparty_app/434" target="_blank">https://t.me/onparty_app/434</a><br>
     
