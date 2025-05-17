@@ -241,4 +241,6 @@
     <a href="https://t.me/onparty_app/434" target="_blank">https://t.me/onparty_app/434</a><br>
     <a href="https://onparty.app/moscow/mumiy-troll/gosha-kutsenko-17052025/" target="_blank">https://onparty.app/moscow/mumiy-troll/gosha-kutsenko-17052025/</a><br>
     <a href="https://t.me/onparty_app/435" target="_blank">https://t.me/onparty_app/435</a><br>
+    <a href="https://onparty.app/moscow/stereopeople/dmitry-malikov-17052025/" target="_blank">https://onparty.app/moscow/stereopeople/dmitry-malikov-17052025/</a><br>
+    <a href="https://t.me/onparty_app/436" target="_blank">https://t.me/onparty_app/436</a><br>
     
