@@ -245,4 +245,6 @@
     <a href="https://t.me/onparty_app/436" target="_blank">https://t.me/onparty_app/436</a><br>
     <a href="https://onparty.app/moscow/atlas/ay-yola-17052025/" target="_blank">https://onparty.app/moscow/atlas/ay-yola-17052025/</a><br>
     <a href="https://t.me/onparty_app/437" target="_blank">https://t.me/onparty_app/437</a><br>
+    <a href="https://onparty.app/moscow/beriot/hanna-30052025/" target="_blank">https://onparty.app/moscow/beriot/hanna-30052025/</a><br>
+    <a href="https://t.me/onparty_app/438" target="_blank">https://t.me/onparty_app/438</a><br>
     
