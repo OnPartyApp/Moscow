@@ -253,4 +253,6 @@
     <a href="https://t.me/onparty_app/440" target="_blank">https://t.me/onparty_app/440</a><br>
     <a href="https://onparty.app/moscow/boyarski/dato-31052025/" target="_blank">https://onparty.app/moscow/boyarski/dato-31052025/</a><br>
     <a href="https://t.me/onparty_app/441" target="_blank">https://t.me/onparty_app/441</a><br>
+    <a href="https://onparty.app/moscow/petter/crematorium-31052025/" target="_blank">https://onparty.app/moscow/petter/crematorium-31052025/</a><br>
+    <a href="https://t.me/onparty_app/442" target="_blank">https://t.me/onparty_app/442</a><br>
     
