@@ -259,4 +259,6 @@
     <a href="https://t.me/onparty_app/443" target="_blank">https://t.me/onparty_app/443</a><br>
     <a href="https://onparty.app/moscow/memo/nepara-31052025/" target="_blank">https://onparty.app/moscow/memo/nepara-31052025/</a><br>
     <a href="https://t.me/onparty_app/444" target="_blank">https://t.me/onparty_app/444</a><br>
+    <a href="https://onparty.app/moscow/beriot/misha-marvin-31052025/" target="_blank">https://onparty.app/moscow/beriot/misha-marvin-31052025/</a><br>
+    <a href="https://t.me/onparty_app/445" target="_blank">https://t.me/onparty_app/445</a><br>
     
