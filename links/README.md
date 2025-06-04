@@ -264,4 +264,7 @@
     <a href="https://onparty.app/moscow/16-tons/meyti-03062025/" target="_blank">https://onparty.app/moscow/16-tons/meyti-03062025/</a><br>
     <a href="https://t.me/onparty_app/446" target="_blank">https://t.me/onparty_app/446</a><br>
     <a href="https://telegra.ph/Mehjti---Koncert---Klub-16-Tonn-Moskva-06-03" target="_blank">https://telegra.ph/Mehjti---Koncert---Klub-16-Tonn-Moskva-06-03</a><br>
+    <a href="https://onparty.app/moscow/petter/shura-05062025/" target="_blank">https://onparty.app/moscow/petter/shura-05062025/</a><br>
+    <a href="https://t.me/onparty_app/447" target="_blank">https://t.me/onparty_app/447</a><br>
+    <a href="https://telegra.ph/SHura---Koncert---Bar-Petter-Moskva-06-04" target="_blank">https://telegra.ph/SHura---Koncert---Bar-Petter-Moskva-06-04</a><br>
     
