@@ -271,4 +271,6 @@
     <a href="https://t.me/onparty_app/448" target="_blank">https://t.me/onparty_app/448</a><br>
     <a href="https://onparty.app/moscow/mumiy-troll/larisa-dolina-06062025/" target="_blank">https://onparty.app/moscow/mumiy-troll/larisa-dolina-06062025/</a><br>
     <a href="https://t.me/onparty_app/449" target="_blank">https://t.me/onparty_app/449</a><br>
+    <a href="https://onparty.app/moscow/izi/ternovoy-06062025/" target="_blank">https://onparty.app/moscow/izi/ternovoy-06062025/</a><br>
+    <a href="https://t.me/onparty_app/450" target="_blank">https://t.me/onparty_app/450</a><br>
     
