@@ -267,4 +267,6 @@
     <a href="https://onparty.app/moscow/petter/shura-05062025/" target="_blank">https://onparty.app/moscow/petter/shura-05062025/</a><br>
     <a href="https://t.me/onparty_app/447" target="_blank">https://t.me/onparty_app/447</a><br>
     <a href="https://telegra.ph/SHura---Koncert---Bar-Petter-Moskva-06-04" target="_blank">https://telegra.ph/SHura---Koncert---Bar-Petter-Moskva-06-04</a><br>
+    <a href="https://onparty.app/moscow/soho-rooms/kaspiyskiy-gruz-06062025/" target="_blank">https://onparty.app/moscow/soho-rooms/kaspiyskiy-gruz-06062025/</a><br>
+    <a href="https://t.me/onparty_app/448" target="_blank">https://t.me/onparty_app/448</a><br>
     
