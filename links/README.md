@@ -279,4 +279,6 @@
     <a href="https://t.me/onparty_app/452" target="_blank">https://t.me/onparty_app/452</a><br>
     <a href="https://onparty.app/moscow/memo/avraam-russo-07062025/" target="_blank">https://onparty.app/moscow/memo/avraam-russo-07062025/</a><br>
     <a href="https://t.me/onparty_app/453" target="_blank">https://t.me/onparty_app/453</a><br>
+    <a href="https://onparty.app/moscow/laski/samoel-07062025/" target="_blank">https://onparty.app/moscow/laski/samoel-07062025/</a><br>
+    <a href="https://t.me/onparty_app/454" target="_blank">https://t.me/onparty_app/454</a><br>
     
