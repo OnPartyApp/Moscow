@@ -275,4 +275,6 @@
     <a href="https://t.me/onparty_app/450" target="_blank">https://t.me/onparty_app/450</a><br>
     <a href="https://onparty.app/moscow/petter/na-na-07062025/" target="_blank">https://onparty.app/moscow/petter/na-na-07062025/</a><br>
     <a href="https://t.me/onparty_app/451" target="_blank">https://t.me/onparty_app/451</a><br>
+    <a href="https://onparty.app/moscow/mumiy-troll/anna-semenovich-07062025/" target="_blank">https://onparty.app/moscow/mumiy-troll/anna-semenovich-07062025/</a><br>
+    <a href="https://t.me/onparty_app/452" target="_blank">https://t.me/onparty_app/452</a><br>
     
