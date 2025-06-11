@@ -281,4 +281,7 @@
     <a href="https://t.me/onparty_app/453" target="_blank">https://t.me/onparty_app/453</a><br>
     <a href="https://onparty.app/moscow/laski/samoel-07062025/" target="_blank">https://onparty.app/moscow/laski/samoel-07062025/</a><br>
     <a href="https://t.me/onparty_app/454" target="_blank">https://t.me/onparty_app/454</a><br>
+    <a href="https://onparty.app/moscow/16-tons/valeriy-syutkin-11062025/" target="_blank">https://onparty.app/moscow/16-tons/valeriy-syutkin-11062025/</a><br>
+    <a href="https://t.me/onparty_app/455" target="_blank">https://t.me/onparty_app/455</a><br>
+    <a href="https://telegra.ph/Valerij-Syutkin---Koncert---Klub-16-Tonn-Moskva-06-11" target="_blank">https://telegra.ph/Valerij-Syutkin---Koncert---Klub-16-Tonn-Moskva-06-11</a><br>
     
